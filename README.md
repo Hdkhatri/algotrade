@@ -1,0 +1,2 @@
+# algotrade
+BACKTEST OF Flip Strategy | EMA 11 &amp; 17  STRATEGY FOR OPTION SELLING
